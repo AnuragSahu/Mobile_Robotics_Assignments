@@ -26,5 +26,5 @@ Question 3 Given the image coordinates and dimentions of the April tag corners F
 Given Image :<br>
 ![Loading Image Given in Question](./Assignment1/q3/image.png)
 
-Result Image :
+Result Image :<br>
 ![Loading Result Image](./Assignment1/q3/result.png)
