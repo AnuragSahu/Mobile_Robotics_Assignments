@@ -7,4 +7,4 @@
 ### Question 1 given the Lidar points and Camera Image along with the relative Rotation of the camera and with the help of that we have to find out the deapth of the points in the images and scatter the points on image with gradient.
 
 Given Image :
-![Loading Image Given in Question](./q1/image.png)
+![Loading Image Given in Question](./Assignment1/q1/image.png)
