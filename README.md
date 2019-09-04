@@ -20,3 +20,12 @@ Given Image :
 
 Result Image :
 ![Loading Result Image](./Assignment1/q2/result.png)
+
+
+### Question 3 Given the image coordinates and dimentions of the April tag corners Find the homogeneous matrix and the project the world coordinate points onto the image.
+
+Given Image :
+![Loading Image Given in Question](./Assignment1/q3/image.png)
+
+Result Image :
+![Loading Result Image](./Assignment1/q3/result.png)
