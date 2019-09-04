@@ -8,3 +8,15 @@
 
 Given Image :
 ![Loading Image Given in Question](./Assignment1/q1/image.png)
+
+Result Image :
+![Loading Result Image](./Assignment1/q1/result.png)
+
+
+### Question 2 Given the image and Height of the camera, and Dimentions of the car pick one point from the image take it as the world origin and using that make a bounding box around the car.
+
+Given Image :
+![Loading Image Given in Question](./Assignment1/q2/image.png)
+
+Result Image :
+![Loading Result Image](./Assignment1/q2/result.png)
