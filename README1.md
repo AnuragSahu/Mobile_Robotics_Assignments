@@ -1,19 +1,19 @@
 |Team ID | Student -1 | Roll Number | Student-2 | Roll Number | PDF LInk | Topic |
 |----------|--------------|---------------|-------------|----------------|------------|-----|
 |1 | Subrahamanyan Varama  | 201714006  | Kesav Nanguluri | 201530022 | |Camera Modeling (pinhole projection, intrinsic and extrinsic parameters) |
-|2 | Projit Bandyopadhyay  | 20161014   | Abhinav Gupta   | 20171059| |Camera Modeling (pinhole projection, intrinsic and extrinsic parameters)|
-|3 | Jayitha Reddy         | 20171401   | Niharika V      | 2018122008 ||Camera Modeling (pinhole projection, intrinsic and extrinsic parameters)|
-|4 | Shubodh Sai           | 2019701013 | Udit Parihar    | 2018701024 ||Camera calibration (DLT, Zhang's)|
-|5 | Yash Agarwal          | 20161193   | Anshul Lahoti   | 20161183 ||Camera calibration (DLT, Zhang's)|
+|2 | Projit Bandyopadhyay  | 20161014   | Abhinav Gupta   | 20171059|<a href="https://github.com/AnuragSahu/Mobile_Robotics_Assignments/blob/master/Lecture_notes/MR_Notes_Team2.pdf">Link</a> |Camera Modeling (pinhole projection, intrinsic and extrinsic parameters)|
+|3 | Jayitha Reddy         | 20171401   | Niharika V      | 2018122008 |<a href="https://github.com/AnuragSahu/Mobile_Robotics_Assignments/blob/master/Lecture_notes/L1CameraModelling.pdf">Link</a> |Camera Modeling (pinhole projection, intrinsic and extrinsic parameters)|
+|4 | Shubodh Sai           | 2019701013 | Udit Parihar    | 2018701024 |<a href="https://github.com/AnuragSahu/Mobile_Robotics_Assignments/blob/master/Lecture_notes/MR_Notes_Scribing_Group4.pdf">Link</a>|Camera calibration (DLT, Zhang's)|
+|5 | Yash Agarwal          | 20161193   | Anshul Lahoti   | 20161183 |<a href="https://github.com/AnuragSahu/Mobile_Robotics_Assignments/blob/master/Lecture_notes/MR_Notes_Camera_Calibration_Group5.pdf">Link</a>|Camera calibration (DLT, Zhang's)|
 |6 | Meher Shashwat Nigam  | 20171062   | Puru Gupta      | 20171187||Camera calibration (DLT, Zhang's)|
-|7 | Siddharth Gaur        | 20171198   | Aradhya Tongia  | 20171049||Camera calibration (DLT, Zhang's)|
+|7 | Siddharth Gaur        | 20171198   | Aradhya Tongia  | 20171049|<a href="https://github.com/AnuragSahu/Mobile_Robotics_Assignments/blob/master/Lecture_notes/Epipolar_Geometry_Group_7.pdf">Link</a>|Camera calibration (DLT, Zhang's)|
 |8 | Naga Manoj            | 20161044   |                 |          ||Camera calibration (DLT, Zhang's)|
-|9 | Shyamgopal Karthik    | 20161221   | Mohsin Mustafa  | 20161131||Camera calibration (DLT, Zhang's)|
+|9 | Shyamgopal Karthik    | 20161221   | Mohsin Mustafa  | 20161131|<a href="https://github.com/AnuragSahu/Mobile_Robotics_Assignments/blob/master/Lecture_notes/Epipolar_Geometry1.pdf">Link</a>|Camera calibration (DLT, Zhang's)|
 |10| Pranathi Bhuvanagiri  | 20171135   | Shreya Terupally|20171175||Epipolar geometry (Estimation - 8 point algorithm, RANSAC)|
-|11| Anirudha Ramesh       | 20171088   | Aryan Sakaria   |20171123||Epipolar geometry (Estimation - 8 point algorithm, RANSAC)|
-|12| Ajay Shrihari         | 20171097   | Chaitanya K     |20171208 ||Epipolar geometry (Estimation - 8 point algorithm, RANSAC)|
-|13| AadilMehdi Sanchawala | 20171043   | Rahul Sajnani   | 20171056 ||Triangulation (Linear, geometric)|
-|14| Ruthwik M             | 20161061   | Shashank M      | 20161214 ||Triangulation (Linear, geometric)|
+|11| Anirudha Ramesh       | 20171088   | Aryan Sakaria   |20171123|<a href="https://github.com/AnuragSahu/Mobile_Robotics_Assignments/blob/master/Lecture_notes/MR_notes.pdf">Link</a>|Epipolar geometry (Estimation - 8 point algorithm, RANSAC)|
+|12| Ajay Shrihari         | 20171097   | Chaitanya K     |20171208 |<a href="https://github.com/AnuragSahu/Mobile_Robotics_Assignments/blob/master/Lecture_notes/MRnotes_Epipolar_geometry__8point_algorithm_and_RANSAC_.pdf">Link</a>|Epipolar geometry (Estimation - 8 point algorithm, RANSAC)|
+|13| AadilMehdi Sanchawala | 20171043   | Rahul Sajnani   | 20171056 |<a href="https://github.com/AnuragSahu/Mobile_Robotics_Assignments/blob/master/Lecture_notes/MR_Team13_Triangulation.pdf">Link</a>|Triangulation (Linear, geometric)|
+|14| Ruthwik M             | 20161061   | Shashank M      | 20161214 |<a href="https://github.com/AnuragSahu/Mobile_Robotics_Assignments/blob/master/Lecture_notes/Triangulation__Linear_and_Geometric_Estimation_Team_14.pdf">Link</a>|Triangulation (Linear, geometric)|
 |15| Mohit Sharma          | 20161031   | Nikhil Bansal|20161065 ||Triangulation (Linear, geometric)|
 |16| Shovan Swain          | 20161127   | Devansh Gautam|20161171 ||Stereo geometry (Disparity, Rectification, Point cloud generation)|
 |17| Kanav Gupta           | 20161151   | Pranay Gupta|20161088 ||Stereo geometry (Disparity, Rectification, Point cloud generation)|
