@@ -6,9 +6,9 @@
 |4 | Shubodh Sai           | 2019701013 | Udit Parihar    | 2018701024 |<a href="https://github.com/AnuragSahu/Mobile_Robotics_Assignments/blob/master/Lecture_notes/MR_Notes_Scribing_Group4.pdf">Link</a>|Camera calibration (DLT, Zhang's)|
 |5 | Yash Agarwal          | 20161193   | Anshul Lahoti   | 20161183 |<a href="https://github.com/AnuragSahu/Mobile_Robotics_Assignments/blob/master/Lecture_notes/MR_Notes_Camera_Calibration_Group5.pdf">Link</a>|Camera calibration (DLT, Zhang's)|
 |6 | Meher Shashwat Nigam  | 20171062   | Puru Gupta      | 20171187||Camera calibration (DLT, Zhang's)|
-|7 | Siddharth Gaur        | 20171198   | Aradhya Tongia  | 20171049|<a href="https://github.com/AnuragSahu/Mobile_Robotics_Assignments/blob/master/Lecture_notes/Epipolar_Geometry_Group_7.pdf">Link</a>|Camera calibration (DLT, Zhang's)|
-|8 | Naga Manoj            | 20161044   |                 |          ||Camera calibration (DLT, Zhang's)|
-|9 | Shyamgopal Karthik    | 20161221   | Mohsin Mustafa  | 20161131|<a href="https://github.com/AnuragSahu/Mobile_Robotics_Assignments/blob/master/Lecture_notes/Epipolar_Geometry1.pdf">Link</a>|Camera calibration (DLT, Zhang's)|
+|7 | Siddharth Gaur        | 20171198   | Aradhya Tongia  | 20171049|<a href="https://github.com/AnuragSahu/Mobile_Robotics_Assignments/blob/master/Lecture_notes/Epipolar_Geometry_Group_7.pdf">Link</a>|Epipolar geometry (Constraint, F-matrix derviation, E-matrix)|
+|8 | Naga Manoj            | 20161044   |                 |          ||Epipolar geometry (Constraint, F-matrix derviation, E-matrix)|
+|9 | Shyamgopal Karthik    | 20161221   | Mohsin Mustafa  | 20161131|<a href="https://github.com/AnuragSahu/Mobile_Robotics_Assignments/blob/master/Lecture_notes/Epipolar_Geometry1.pdf">Link</a>|Epipolar geometry (Constraint, F-matrix derviation, E-matrix)|
 |10| Pranathi Bhuvanagiri  | 20171135   | Shreya Terupally|20171175||Epipolar geometry (Estimation - 8 point algorithm, RANSAC)|
 |11| Anirudha Ramesh       | 20171088   | Aryan Sakaria   |20171123|<a href="https://github.com/AnuragSahu/Mobile_Robotics_Assignments/blob/master/Lecture_notes/MR_notes.pdf">Link</a>|Epipolar geometry (Estimation - 8 point algorithm, RANSAC)|
 |12| Ajay Shrihari         | 20171097   | Chaitanya K     |20171208 |<a href="https://github.com/AnuragSahu/Mobile_Robotics_Assignments/blob/master/Lecture_notes/MRnotes_Epipolar_geometry__8point_algorithm_and_RANSAC_.pdf">Link</a>|Epipolar geometry (Estimation - 8 point algorithm, RANSAC)|
